@@ -7,8 +7,8 @@ import (
 
 	"google.golang.org/grpc"
 
-	proto "github.com/atharv-bhadange/grpc-chat/gen"
-	"github.com/atharv-bhadange/grpc-chat/handler"
+	proto "grpc-chat/gen"
+	"grpc-chat/handler"
 )
 
 func main() {

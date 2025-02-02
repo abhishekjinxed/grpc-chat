@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"sync"
 
-	proto "github.com/atharv-bhadange/grpc-chat/gen"
+	proto "grpc-chat/gen"
 )
 
 type Connection struct {
